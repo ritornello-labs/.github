@@ -1,7 +1,7 @@
 <p align="center">
   <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="wordmark-dark.svg">
-    <img src="wordmark.svg" width="440" alt="ritornello — the word set between repeat barlines">
+    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/ritornello-labs/.github/main/profile/wordmark-dark.svg">
+    <img src="https://raw.githubusercontent.com/ritornello-labs/.github/main/profile/wordmark.svg" width="440" alt="ritornello — the word set between repeat barlines">
   </picture>
 </p>
 
